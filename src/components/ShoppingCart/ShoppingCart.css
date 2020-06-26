@@ -1,0 +1,14 @@
+.Sc
+{
+   border-style: solid;
+   background-color: white;
+   width: 200px;
+}
+.Sc td
+{
+   text-align: center;
+}
+.tb tr
+{
+   text-align: center;
+}

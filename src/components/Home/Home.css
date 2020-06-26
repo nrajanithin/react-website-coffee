@@ -1,0 +1,29 @@
+h2,h3
+{
+    font-family: serif;
+}
+p
+{
+    text-align: justify;
+}
+ul {
+    list-style: none;
+  }
+  
+  ul li:before {
+    content: '✓';
+    margin-right: 10px;
+    color: brown;
+  }
+.homebody tr:nth-child(odd)
+{
+   background-color: wheat;
+}
+.homebody tr:nth-child(even)
+{
+    background-color: whitesmoke;
+}
+.imgClass
+{
+    margin-top: 100px;
+}
